@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "rehmaanforsure-jg7d.aternos.me:13804",
+    "port": 13804,
     "version": "",
     "try-creative": false
   },
